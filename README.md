@@ -17,7 +17,7 @@
 > **Note**: This project is currently under active development. The hardware design, schematics, and documentation are not yet finalized. Features and specifications may change as development progresses.
 
 **Current Status:**
-- ✅ Architecture design completed
+- ✅ Preliminary architecture design completed
 - 🔄 Schematic design in progress
 - ⏳ PCB layout pending
 - ⏳ Bill of materials pending
