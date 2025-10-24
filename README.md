@@ -27,7 +27,7 @@
 
 # PicoGlitcher_v3-Phobos
 
-This repository contains the hardware development files for PicoGlitcher v3 – Phobos, a project inspired by the original PicoGlitcher developed and maintained by Matthias Kessenheimer.
+This repository contains the hardware development files for PicoGlitcher v3 – Phobos, a project inspired by the original PicoGlitcher developed and maintained by Matthias Kessenheimer (see https://github.com/MKesenheimer/fault-injection-library).
 
 # Goal
 
