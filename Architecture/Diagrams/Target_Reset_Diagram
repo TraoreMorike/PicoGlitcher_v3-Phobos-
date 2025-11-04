@@ -1,0 +1,10 @@
+{signal: 
+ 	[
+        {name: 'TARGET_RESET', wave: 'h.L..H..L.H..'},
+        {name: 'TP46', wave: 'h.L..H..L.H..'},
+        {name: 'TP47', wave: 'l.H..L..H.L..'},
+        {name: 'RESET_INDICATOR', wave: 'l.H...L.H..L.'},
+      	{name: 'TARGET_RESET_EN', wave: 'l.......H.L..'},
+        {name: 'RESET_INDICATOR_CLEAR', wave: 'l.....HL...HL'},
+	], 
+}
