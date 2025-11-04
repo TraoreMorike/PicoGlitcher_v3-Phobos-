@@ -17,7 +17,7 @@
 > **Note**: This project is currently under active development. The hardware design, schematics, and documentation are not yet finalized. Features and specifications may change as development progresses.
 
 **Current Status:**
-- ✅ Architecture design completed
+- ✅ Preliminary architecture design completed
 - 🔄 Schematic design in progress
 - ⏳ PCB layout pending
 - ⏳ Bill of materials pending
@@ -27,7 +27,7 @@
 
 # PicoGlitcher_v3-Phobos
 
-This repository contains the hardware development files for PicoGlitcher v3 – Phobos, a project inspired by the original PicoGlitcher developed and maintained by Matthias Kessenheimer.
+This repository contains the hardware development files for PicoGlitcher v3 – Phobos, a project inspired by the original PicoGlitcher developed and maintained by Matthias Kessenheimer (see https://github.com/MKesenheimer/fault-injection-library).
 
 # Goal
 
