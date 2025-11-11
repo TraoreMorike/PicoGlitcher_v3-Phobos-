@@ -78,9 +78,9 @@ The project uses the codename "Phobos", inspired by the Greek god Phobos, the pe
 
 ## FP4 Target GPIOs
 * Target voltage reference.
-* Control ON/OFF target power with low-cost BPS.
+* Control ON/OFF target power with low-cost BDS.
 * Trigger input circuitry for glitching and ADC capture.  
-* Bi-directional GPIO (4x SN74LVC1T4).
+* Bi-directional GPIO (4x SN74LVC1T45).
 
 ## FP5 ADC
 * ADC add-on daughter board (it's too much for the current RP2040 to handle a high sample rate ADC). 
@@ -93,5 +93,5 @@ The project uses the codename "Phobos", inspired by the Greek god Phobos, the pe
 
 # Roadmap 
 - [x] Preliminary architecture
-- [ ] Preliminary schematic (in progress...)
+- [x] Preliminary schematic (in progress...)
 - [ ] Preliminary bill of materials
