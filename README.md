@@ -41,6 +41,18 @@ The project uses the codename "Phobos", inspired by the Greek god Phobos, the pe
 
 # Architecture
 
+## Update
+
+14/11/2025 : 
+
+- Added an array of user selectable shunt resistor on VDD Target. 
+
+- Added a schmitt trigger with fast response for external triggering with an Oscilloscope or Logic Analyzer.  
+
+- Added user selectable through jumper connection of crowbar mosfet on VDD_TARGET, this avoid the usage of the SMA connector.  
+
+- Simplification of the glitching mode selection. Multiplex and Pulse Shapping glitching are now directly connected on VDD_TARGET power rail to avoid usage of the SMA connector (it is still for Pulse Shapping).  
+
 ![PicoGlitcher v3 Architecture](Architecture/Architecture_PicoGlitcherv3.png)
 * 1x Micro USB Connector for host communication and updates.  
 * 1x USB-C Connector (without data lines).
