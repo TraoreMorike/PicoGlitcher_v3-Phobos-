@@ -43,6 +43,10 @@ The project uses the codename "Phobos", inspired by the Greek god Phobos, the pe
 
 ## Update
 
+19/11/2025 : 
+
+- Working on the glicth target. Finally STM32 is the best candidate. It contains a lot of circuitry but it is project within a project.. :) 
+
 14/11/2025 : 
 
 - Added an array of user selectable shunt resistor on VDD Target. 
